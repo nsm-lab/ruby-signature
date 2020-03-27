@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ruby::Signature
 
 Ruby::Signature provides syntax and semantics definition for the `Ruby Signature` language, `.rbs` files.
@@ -91,3 +92,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/ruby/ruby-signature.
+=======
+# ruby-signature
+Type signature for Ruby classes
+>>>>>>> 5a4948b6611377329e74bdbf4455c36a1dd88bae
